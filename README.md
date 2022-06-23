@@ -17,7 +17,7 @@ Myfume is an app for the online managment of a perfume collection
 
 ## And of Course There Is A Compiled, Executable Version of The Program
 
-![Image of The Icon](https://github.com/RyanCartularo/Myfume/blob/main/Pictures%20Are%20Fun!/myfumeLogo.png)
+![Image of The Icon](https://github.com/RyanCartularo/Myfume/blob/main/Pictures%20Are%20Fun!/myfumeLogo.png, https://github.com/RyanCartularo/Myfume/blob/main/Myfume.exe)
 
 
 (Important note: When downloaded the program will not be able to connect to the database because the database is only on the device of the creator)
